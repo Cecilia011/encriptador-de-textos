@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es-mx">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 1</title>
+    <link rel="stylesheet" href="./styles/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+</head>
+<body>
+    <main class="contenido">
+        <a href="https://www.aluracursos.com" target="_blank"> <img class="logo__alura"  src="./assets/Logo.png" alt="logoAlura"></a>       
+        <section class="contenido__izquierda">
+            <textarea name="contenido__izquierda__texto" class="contenido__izquierda__texto" placeholder="Ingresa el texto aquí."></textarea>               <!--agregar caja de texto, texto de letras minus y sin acentos y botones encriptar y desencriptar-->
+            <div class="contenido__izquierda__advertencia">
+                <div class="contenido__izquierda__icono__advertencia">
+                    <span class="material-symbols-outlined">
+                        error
+                    </span>
+                </div>
+                <div class="contenido__izquierda__texto__advertencia">
+                    <p>Solo letras minúsculas y sin acentos.</p>
+                </div>
+            </div>
+            <div class="contenido__izquierda__botones">
+                <button class="contenido__izquierda__boton__encriptar">
+                    Encriptar
+                </button>
+                <button class="contenido__izquierda__boton__desencriptar">
+                    Desencriptar
+                </button>
+            </div>
+        </section>
+        <section class="contenido__derecha">
+            <img  class="contenido__derecha__muñeco" src="./assets/Muñeco.png" alt="muñecoNingunMensaje">
+            <h2 class="contenido__derecha__subtitulo">Ningún mensaje fue encontrado</h2>
+            <p>Ingresa el texto que desees encriptar o desencriptar.</p>
+            <div class="contenido__derecha__resultado" style="display: none;"></div>
+            <button class="contenido__derecha__boton__copiar" style="display:none;">Copiar texto</button>
+        </section>
+    </main>
+    
+     
+    <script src="main.js" ></script>
+</body>
+</html>
+
