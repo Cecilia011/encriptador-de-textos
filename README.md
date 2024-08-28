@@ -1,5 +1,4 @@
-# encriptador-de-textos
-# Encriptador de Texto
+# Encriptador de Textos
 
 Este proyecto es un encriptador de texto que transforma las letras de un texto ingresado en su equivalente encriptado según las siguientes reglas:
 
@@ -30,6 +29,12 @@ El proyecto está estructurado de la siguiente manera:
 - **HTML:** Contiene la estructura básica de la página, con áreas designadas para la entrada de texto, botones de acción, y la visualización del resultado.
 - **CSS:** El diseño es responsivo y utiliza unidades `rem` para garantizar una correcta visualización en diferentes dispositivos como laptops, tabletas o celulares contando cada dispositivo con un diseño diferente de la página. Se aplicaron estilos para asegurar que el resultado del texto no se salga de su contenedor. 
 - **JavaScript:** Contiene la lógica para encriptar, desencriptar y mostrar/ocultar elementos en función de las acciones del usuario.
+
+## Capturas de pantalla
+
+![Captura de Pantalla del Portafolio para Ordenador](./assets/evidenciaLaptop.png)
+![Captura de Pantalla del Portafolio para Móvil](./assets/evidenciaMovil.png)
+
 
 ## Programas Utilizados
 
