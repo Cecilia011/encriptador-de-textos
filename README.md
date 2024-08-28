@@ -32,8 +32,9 @@ El proyecto está estructurado de la siguiente manera:
 
 ## Capturas de pantalla
 
-![Captura de Pantalla del Portafolio para Ordenador](./assets/evidenciaLaptop.png)
-![Captura de Pantalla del Portafolio para Móvil](./assets/evidenciaMovil.png)
+![Captura de Pantalla para Ordenador](./assets/laptop.png)
+![Captura de Pantalla para Móvil](./assets/tableta.png)
+![Captura de Pantalla para Móvil](./assets/movil.png)
 
 
 ## Programas Utilizados
@@ -46,6 +47,9 @@ El proyecto está estructurado de la siguiente manera:
 
 El diseño del proyecto es completamente responsivo. Se utilizaron unidades `rem` para garantizar flexibilidad en diferentes tamaños de pantalla. Además, el contenido en la sección de resultados se adapta para no salir del contenedor.
 
-## Autor
+## Hecho por:
 
-Este proyecto fue realizado por **Cecilia Angeles**.
+Gabriela Cecilia Ángeles Gómez.
+- [LinkedIn](www.linkedin.com/in/gabriela-cecilia-ángeles-gómez-0b1345315)
+- [Instagram](https://instagram.com/gaby_ang1)
+
